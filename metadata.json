@@ -1,0 +1,6 @@
+{
+  "name": "Apito",
+  "description": "Marketplace de árbitros esportivos para partidas amadoras e ligas",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
